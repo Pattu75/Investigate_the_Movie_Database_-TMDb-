@@ -1,4 +1,4 @@
-# Investigate_the_Movie_Database_-TMDb-
+# Investigate the Movie Database (TMDb):
 
 # Table of Contents:
 
